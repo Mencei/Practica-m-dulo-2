@@ -6,26 +6,19 @@
 
 ## Descripción
 
-Este repositorio contiene una práctica desarrollada como parte del **Curso de Formación Avanzada en Backend: Python, Flask y Django**, correspondiente al **Módulo 2**. La práctica se centra en la implementación de un sistema de gestión de contactos a través de una aplicación de consola en Python, que permite realizar operaciones como agregar, visualizar, buscar, eliminar y exportar contactos.
-
-La aplicación está diseñada para ser sencilla y robusta, con validaciones integradas para datos como el correo electrónico y el teléfono, y un sistema de paginación que facilita la visualización de los contactos.
+Este repositorio contiene el trabajo desarrollado para la **Práctica del Curso de Formación Avanzada en Backend: Python, Flask y Django** correspondiente al **Módulo 2**. El proyecto fue concebido para poner en práctica los conceptos aprendidos en el curso, implementando funcionalidades clave en Python que abarcan la gestión de contactos, validaciones de datos y manejo de archivos.
 
 ## Características
 
-- **Gestión de Contactos:** Permite agregar, buscar, eliminar y exportar contactos.
-- **Visualización Paginada:** Muestra los contactos en bloques para una navegación más cómoda.
-- **Validación de Datos:** Asegura que los datos ingresados, como el correo electrónico y el teléfono, cumplan con un formato correcto.
-- **Exportación a CSV:** Facilita la exportación de la lista de contactos para su respaldo o integración con otras aplicaciones.
+- **Gestión de Contactos:** Agregar, buscar, eliminar y exportar contactos.
+- **Validación de Datos:** Verifica que los campos (correo electrónico, teléfono, etc.) cumplan con el formato requerido.
+- **Visualización Paginada:** Muestra los contactos en bloques para facilitar la navegación.
+- **Exportación a CSV:** Permite exportar la lista de contactos para respaldos o integraciones posteriores.
 
 ## Tecnologías Utilizadas
 
-- **Python 3:** Lenguaje principal del proyecto.
+- **Python 3:** Lenguaje de programación.
 - **Colorama:** Para el formateo y coloreado de la salida en la consola.
-- **Regular Expressions (re):** Para la validación del formato de los correos electrónicos.
+- **Regular Expressions (re):** Para validar el formato de los correos electrónicos.
 
-## Instalación
-
-1. **Clona el repositorio:**
-   ```bash
-   git clone https://github.com/Mencei/Practica-m-dulo-2.git
-   
+## Práctica desarrollada en el marco del Curso de Formación Avanzada en Backend: Python, Flask y Django (Módulo 2).
